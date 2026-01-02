@@ -1,9 +1,0 @@
-
-{
-  "name": "CARL | Cyber AI Research Lab",
-  "description": "Advancing Global Intelligence and Response to AI-Driven Crime. A community-driven research hub and threat intelligence clearinghouse.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
